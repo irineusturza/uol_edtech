@@ -19,6 +19,11 @@ MinSdkVersion: 21
 ## General
 .env file, In a normal Scenario the correct thing to do is to add the .env file as an entry in .gitignore
 
+## Apk e Tutorial
+Como instalar APK no Android: https://www.techtudo.com.br/dicas-e-tutoriais/2018/10/como-instalar-apk-no-android.ghtml
+Apk: https://drive.google.com/drive/folders/17uPKQuOlc4bOmxenae-5OHYLGfWYrh_q?usp=sharing
+
+
 ## To run
 flutter clean
 flutter pub get
