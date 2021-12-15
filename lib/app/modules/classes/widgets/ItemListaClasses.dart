@@ -107,7 +107,7 @@ class ItemListaClasses extends StatelessWidget {
                         width: 5.0,
                       ),
                       Text(
-                        classes!.id!.length > 10 ? classes!.id!.substring(0, 20)+'...' : classes!.id!,
+                        classes!.id!.length > 10 ? classes!.id!.substring(0, 10)+'...' : classes!.id!,
                         overflow: TextOverflow.ellipsis,
                         maxLines: 2,
                       ),
